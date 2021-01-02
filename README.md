@@ -8,4 +8,5 @@
 This is a repository for the solutions of various Hello world in different programming languages. It was started with the aim of making a nice database of various Hello world code  in different programming languages. 
 
 
-
+#### Contribution Guidelines
+Add a proper langauage code make a seprate folder of that language name and make a file like hello world.cpp, hello world.c, and which language you have to add code (for code help,[http://helloworldcollection.de/]prefer to this 
