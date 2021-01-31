@@ -11,10 +11,6 @@ This is a repository for the solutions of various Hello world in different progr
 #### Contribution Guidelines
 Add a proper langauage code make a seprate folder of that language name and make a file like hello world.cpp, hello world.c, and which language you have to add code (for code help, languages [http://helloworldcollection.de/] prefer to this 
 
-# Automatic-Birthday-Wisher
-
-This is Automatic birthday wisher that wishes the birthday, play song, cut cake, and many things just try it in your browser
-
 ## Owner
 
 * [Ayush Kumar👨‍💻](https://github.com/Ayush7614)
