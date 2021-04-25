@@ -2,6 +2,9 @@
 ## Say Hello-World with different languages
 <img align="center" alt="GIF" src="https://github.com/Ayush7614/Hello-World-/blob/main/download%20(3).png" width="800px" />
 
+![Hello-World-](https://socialify.git.ci/Ayush7614/Hello-World-/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+
+
 ## 700 programming languages
 ## Wikipedia claims there are approximately 700 programming languages, while others say that number is closer to 9000! The truth is, there've been countless programming languages created throughout history. But like spoken languages, there's a hierarchy of programming languages based on their prevalence and usage.
 
