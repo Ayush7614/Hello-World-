@@ -3,9 +3,6 @@
 
 ![Hello-World-](https://socialify.git.ci/Ayush7614/Hello-World-/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
-<img align="center" alt="GIF" src="https://github.com/Ayush7614/Hello-World-/blob/main/download%20(3).png" width="800px" />
-
-![Hello-World-](https://socialify.git.ci/Ayush7614/Hello-World-/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
 
 
 ## 700 programming languages
